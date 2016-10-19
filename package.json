@@ -1,0 +1,27 @@
+{
+  "name": "canvas-animation",
+  "version": "1.0.0",
+  "description": "Animations using canvas and HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Jcb121/canvas-animation.git"
+  },
+  "author": "Jesse Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Jcb121/canvas-animation/issues"
+  },
+  "homepage": "https://gitlab.com/Jcb121/canvas-animation#README",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "run-sequence": "^1.2.2",
+    "watchify": "^3.7.0"
+  }
+}
